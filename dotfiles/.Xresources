@@ -1,0 +1,13 @@
+! Set the modi to combine in combi mode
+rofi.combi-modi:		     window,run,ssh
+rofi.color-enabled:                  true
+! Color scheme for normal row
+rofi.color-normal:                   #ffffff,#2f343f, #f5f6f7,#5294e2,#ffffff
+! Color scheme for urgent row
+rofi.color-urgent:                   #ffffff,#dc322f,#f5f6f7,#5294e2,#dc322f
+! Color scheme for active row
+rofi.color-active:                   #ffffff,#c2cad0,#f5f6f7,#5294e2,#c2cad0
+! Color scheme window
+rofi.color-window:                   #ffffff,#2f343f
+! Separator style (none, dash, solid)
+rofi.separator-style:                solid
