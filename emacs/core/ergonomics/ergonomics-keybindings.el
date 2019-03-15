@@ -19,6 +19,9 @@
 (global-set-key (kbd "M-4") (lambda () (interactive) (eyebrowse-switch-to-window-config-4)))
 (global-set-key (kbd "M-5") (lambda () (interactive) (eyebrowse-switch-to-window-config-5)))
 
+;; Neotree - A Emacs tree plugin like NerdTree for Vim.
+(global-set-key [f4] 'neotree-toggle)
+
 ;; Popwin - A popup window manager for Emacs which makes you free from the hell of annoying buffers.
 (global-set-key (kbd "C-z") popwin:keymap)
 

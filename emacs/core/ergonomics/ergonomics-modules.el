@@ -21,6 +21,11 @@
 ;; Eyebrowse - a global minor mode for Emacs that allows you to manage your window configurations in a simple manner, just like tiling window managers
 (eyebrowse-mode t)
 
+;; Neotree - A Emacs tree plugin like NerdTree for Vim.
+(add-to-list 'load-path "~/my-config/emacs/modules/ergonomics/emacs-neotree/")
+(require 'neotree)
+(setq neo-theme (if (display-graphic-p) 'icons 'arrow))
+
 ;; Popwin - A popup window manager for Emacs which makes you free from the hell of annoying buffers.
 (add-to-list 'load-path "~/my-config/emacs/modules/ergonomics/popwin/")
 (require 'popwin)

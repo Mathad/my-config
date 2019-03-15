@@ -20,7 +20,7 @@
 
 ;; Loading my Emacs environment
 (add-to-list 'load-path "~/my-config/emacs/config/")
-
+;; Path to the core files
 (add-to-list 'load-path "~/my-config/emacs/core/ergonomics/")
 (add-to-list 'load-path "~/my-config/emacs/core/libs/")
 (add-to-list 'load-path "~/my-config/emacs/core/tools/")
@@ -29,6 +29,10 @@
 ;; Loading my theme : spacegray
 (load-file "~/my-config/emacs/core/theme/spacegray.el")
 
+;; Set default web browser
+(setq browse-url-browser-function 'browse-url-firefox
+      browse-url-new-window-flag  t
+browse-url-firefox-new-window-is-tab t)
 ;; Allow to save password
 (setq password-cache-expiry nil)
 

@@ -6,6 +6,11 @@
 ;;     UI -- MODULES     ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+;; All the icons - Better icons for Emacs
+(add-to-list 'load-path "~/my-config/emacs/modules/ui/all-the-icons/")
+(require 'all-the-icons)
+(add-hook 'dired-mode-hook 'all-the-icons-dired-mode)
+
 ;; Spinner - Add progress-bars to the mode-line for ongoing operations.
 (load-file "~/my-config/emacs/modules/ui/spinner/spinner.el")
 (require 'spinner)

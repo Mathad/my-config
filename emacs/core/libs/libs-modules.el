@@ -12,6 +12,9 @@
 ;; Popup
 (load-file "~/my-config/emacs/modules/libs/popup/popup.el")
 
+;; Memoize
+(load-file "~/my-config/emacs/modules/libs/emacs-memoize/memoize.el")
+
 ;; S - string manipulation
 (load-file "~/my-config/emacs/modules/libs/s/s.el")
 (require 's)
