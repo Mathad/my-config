@@ -17,18 +17,6 @@
 (add-to-list 'load-path "~/my-config/emacs/modules/tools/magit/lisp/")
 (require 'magit)
 
-;; PDF tools - A replacement of DocView for PDF files.
-(if (not (executable-find "epdfinfo"))
-    (message "Please compile pdf-tools")
-  (require 'pdf-tools)
-  (require 'pdf-occur)
-  (require 'pdf-history)
-  (require 'pdf-links)
-  (require 'pdf-outline)
-  (require 'pdf-annot)
-  (require 'pdf-sync)
-(pdf-tools-install))
-
 ;; System packages - A collection of functions to make handling installed system packages more convenient through emacs.
 (load-file "~/my-config/emacs/modules/tools/system-packages/system-packages.el")
 (setq system-packages-use-sudo t)
