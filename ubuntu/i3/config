@@ -14,6 +14,9 @@ set $warning    #A0282A
 # define mod button
 set $mod Mod4
 
+# Restore Nitrogen for wallpaper
+exec --no-startup-id nitrogen --restore
+
 # exit script
 set $i3exit ~/my-config/i3/i3exit
 
