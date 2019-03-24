@@ -1,0 +1,20 @@
+! file configuration for rofi
+
+#define black #011A20
+#define red #A0282A
+#define blue #6083A0
+#define grey #A02E31
+
+! Set the modi to combine in combi mode
+rofi.combi-modi:		     window,run,ssh
+rofi.color-enabled:                  true
+! Color scheme for normal row
+rofi.color-normal:                   black,blue,black,black,grey
+! Color scheme for urgent row
+rofi.color-urgent:                   black,blue,black,black,grey
+! Color scheme for active row
+rofi.color-active:                   black,blue,black,black,grey
+! Color scheme window
+rofi.color-window:                   black,red
+! Separator style (none, dash, solid)
+rofi.separator-style:                solid
