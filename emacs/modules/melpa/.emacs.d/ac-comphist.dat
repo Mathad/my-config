@@ -1,0 +1,30 @@
+((("all-the-icons-dired-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("helm-buffers-list" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("m" .
+   [2])
+  ("provide" .
+   [1 0 0 0 0 0 0])
+  ("eyebrowse-switch-to-window-config-5" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("zoom" .
+   [1 0 0 0])
+  ("require" .
+   [3 0 0 0 0 0 0])
+  ("auto-install-from-emacswiki" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("eval" .
+   [1 0 0 0])
+  ("add-to-list" .
+   [3 0 0 0 0 0 0 0 0 0 1])
+  ("load-path" .
+   [0 0 0 0 2 1 0 0 0])
+  ("auto-install-from-directory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0])
+  ("rev" .
+   [0 0 1])
+  ("f4" .
+   [1 0])
+  ("all-the-icons-dired" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0])))

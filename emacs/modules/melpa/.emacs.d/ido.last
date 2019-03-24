@@ -1,0 +1,289 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/emacs/my-config/emacs/modules/ui/" . "all-the-icons/")
+ ("/home/emacs/my-config/emacs/modules/" . "ui/")
+ ("/home/emacs/my-config/emacs/" . "modules/")
+ ("/home/emacs/my-config/" . "emacs/")
+ ("/home/emacs/" . "my-config/")
+ ("/home/mathad/Documents/backups/my-config/emacs/modules/" . "auto-complete/")
+ ("/home/mathad/my-config/emacs/core/" . "ergonomics/")
+ ("/home/mathad/Documents/backups/my-config/emacs/" . "configuration/")
+ ("/home/mathad/Documents/backups/my-config/" . "emacs/")
+ ("/home/mathad/Documents/backups/" . "my-config/")
+ ("/sudo:mathad-xps:/home/" . "doom/")
+ ("/sudo:mathad-xps:/" . "home/")
+ ("/sudo:/home/" . "doom/")
+ ("/home/mathad/Documents/my_dev/C/" . "driver/")
+ ("/home/mathad/Documents/my_dev/" . "C/")
+ ("/home/mathad/.config/fontconfig/" . "conf.d/")
+ ("/home/mathad/Downloads/" . "icons-in-terminal/")
+ ("/home/mathad/Pictures/oneplus/" . "thailand/")
+ ("/home/mathad/Pictures/" . "oneplus/")
+ ("/sudo:root@localhost:/var/lib/" . "pacman/")
+ ("/sudo:root@localhost:/var/" . "lib/")
+ ("/sudo:root@localhost:/" . "var/")
+ ("/etc/" . "systemd/")
+ ("/home/mathad/.config/" . "fontconfig/")
+ ("/usr/share/" . "conky/")
+ ("/usr/" . "share/")
+ ("/home/mathad/Downloads/dotfiles/" . ".i3/")
+ ("/home/mathad/Documents/" . "backups/")
+ ("/run/media/mathad/7AC8-E3BA/home/mathad/" . "Downloads/")
+ ("/run/media/mathad/7AC8-E3BA/home/" . "mathad/")
+ ("/run/media/mathad/7AC8-E3BA/" . "home/")
+ ("/run/media/mathad/" . "SAVE/")
+ ("/run/media/" . "mathad/")
+ ("/run/" . "media/")
+ ("/" . "home/")
+ ("/home/mathad/my-config/environment/" . "config/")
+ ("/home/" . "mathad/")
+ ("/home/mathad/my-config/emacs/modules/" . "libs/")
+ ("/home/mathad/my-config/emacs/" . "config/")
+ ("/home/mathad/my-config/" . "emacs/")
+ ("/home/mathad/" . "my-config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/sudo:emac@"
+ "/"
+ "/home/mathad/my-config/emacs/config/"
+ "/home/mathad/my-config/emacs/core/ergonomics/"
+ "/home/mathad/my-config/emacs/core/"
+ "/home/mathad/my-config/emacs/core/tools/"
+ "/home/mathad/Downloads/dot-emacs/"
+ "/home/mathad/Documents/backups/my-config/emacs/configuration/"
+ "/home/mathad/my-config/emacs/core/libs/"
+ "/sudo:/home/doom/"
+ "/home/doom/"
+ "/home/mathad/my-config/emacs/configuration/"
+ "/home/mathad/my-config/emacs/modules/dired+/"
+ "/home/mathad/my-config/emacs/modules/auto-install/"
+ "/home/mathad/my-config/dotfiles/"
+ "/home/mathad/my-config/"
+ "/home/mathad/Documents/my_dev/C/driver/"
+ "/home/mathad/.config/fontconfig/conf.d/"
+ "/home/mathad/my-config/emacs/"
+ "/home/mathad/Downloads/"
+ "/home/mathad/"
+ "/home/mathad/.i3/"
+ "/home/mathad/Pictures/oneplus/nepal/"
+ "/home/mathad/Pictures/maldives/"
+ "/home/mathad/.conky/"
+ "/usr/share/conky/"
+ "/sudo:root@localhost:/var/lib/pacman/"
+ "/sudo:root@localhost:"
+ "/etc/systemd/"
+ "/sudo:mathad-xps:"
+ "/su:root@mathad-xps:"
+ "/home/mathad/Downloads/dotfiles/.i3/lemonbar/"
+ "/home/mathad/Downloads/dotfiles/.i3/"
+ "/home/mathad/my-config/environment/config/"
+ "/home/mathad/my-config/emacs/modules/tablist/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "mathad-xps"
+ "sudo"
+ "main.el"
+ "ergonomics-keybindings.el"
+ "ergonomics-modules.el"
+ "tools-keybindings.el"
+ "keybindings.el"
+ "init.org"
+ "tools-modules.el"
+ "modules.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/emacs/my-config/emacs/core/" (23703 17314 310510 533000) "keybindings.el" "projects.el" "main.el~" "themes/" "./" "../" "main.el")
+
+ ("/home/emacs/my-config/emacs/modules/" (23703 17236 166924 522000) "modules.el" "./" "../" "melpa/")
+
+ ("/home/emacs/my-config/emacs/modules/melpa/" (23703 15849 732302 154000) "./" ".emacs.d/" "../")
+
+ ("/home/emacs/my-config/emacs/modules/melpa/.emacs.d/" (23703 15676 304978 463000) "transient/" "tramp" "ido.last~" "elpa/" "auto-save-list/" "ac-comphist.dat" "./" "ido.last" "smex-items" "../" "games/" "#ido.last#")
+
+ ("/home/emacs/my-config/emacs/modules/melpa/.emacs.d/elpa/" (23703 16411 177548 363000) "git-commit-20190319.2352/" "eyebrowse-20190104.1857/" "archives/" "all-the-icons-dired-20170418.2131/" "dash-20190128.1920/" "magit-20190321.1628/" "try-20181204.236/" "zoom-20180310.1221/" "async-20181224.454/" "helm-20190305.1832/" "./" "transient-20190319.1928/" "memoize-20180614.1930/" "pdf-tools-20190309.744/" "with-editor-20190224.931/" "all-the-icons-20190223.2143/" "s-20180406.808/" "../" "helm-core-20190205.1337/" "popup-20160709.1429/" "gnupg/" "tablist-20190129.1813/")
+
+ ("/home/emacs/my-config/emacs/modules/ui/all-the-icons/" (23703 15016 426233 952000) "LICENSE" "Cask" "fonts/" "all-the-icons.el" "data/" "all-the-icons-faces.el" "README.md" "logo.png" ".gitignore" ".travis.yml" "test/" "./" "../" ".git/")
+
+ ("/home/emacs/my-config/emacs/modules/ui/" (23703 15012 349539 928000) "./" "../" "all-the-icons/")
+
+ ("/home/emacs/my-config/emacs/" (23702 14891 150427 925000) "modules/" ".emacs" "core/" "./" "../")
+
+ ("/home/emacs/my-config/emacs/core/.emacs.d/" (23703 14901 148700 735000) "transient/" "tramp" "ido.last~" "elpa/" "auto-save-list/" "ac-comphist.dat" "./" "ido.last" "smex-items" "../" "games/" "#ido.last#")
+
+ ("/home/emacs/my-config/emacs/core/.emacs.d/elpa/" (23702 14798 166869 875000) "git-commit-20190319.2352/" "eyebrowse-20190104.1857/" "archives/" "all-the-icons-dired-20170418.2131/" "dash-20190128.1920/" "magit-20190321.1628/" "try-20181204.236/" "zoom-20180310.1221/" "async-20181224.454/" "helm-20190305.1832/" "./" "transient-20190319.1928/" "memoize-20180614.1930/" "pdf-tools-20190309.744/" "with-editor-20190224.931/" "all-the-icons-20190223.2143/" "../" "helm-core-20190205.1337/" "popup-20160709.1429/" "gnupg/" "tablist-20190129.1813/")
+
+ ("/home/" (23701 58861 350353 818000) "emacs/" "doom/" "./" "mathad/" "../")
+
+ ("/home/emacs/my-config/" (23702 6578 370954 359000) "LICENSE" "emacs/" "README.md" ".gitmodules" "./" "../" "ubuntu/" ".git/")
+
+ ("/home/emacs/my-config/emacs/modules/environment/ergonomics/" (23702 14133 204627 468000) "ergonomics-modules.el" "./" ".#ergonomics-keybindings.el" "../" "ergonomics-keybindings.el")
+
+ ("/home/emacs/" (23702 13929 786792 722000) ".xsession-errors.old" ".cache/" ".local/" ".Xauthority" "Documents/" ".bash_logout" ".emacs" ".esd_auth" ".fonts/" "Videos/" ".gtkrc-2.0" ".bash_history" "Pictures/" "#.emacs#" ".profile" ".gimp-2.8/" ".bashrc" ".Xclients" ".mozilla/" ".dmrc" ".xsession-errors" "Downloads/" ".dir_colors" ".moc/" "./" ".emacs.d/" ".icons/" "Desktop/" ".dmenurc" ".bash_profile" "Music/" "my-config/" ".config/" "Public/" "../" "Templates/" ".Xresources" ".i3/" ".urxvt/" ".xinitrc")
+
+ ("/home/mathad/my-config/emacs/config/" (23681 24560 638522 390000) "my-keybindings.el" "my-modules.el" "./" "../" "main.el" "my-projets.el")
+
+ ("/home/mathad/my-config/emacs/" (23680 3081 419575 478000) "modules/" "core/" "config/" "./" "../")
+
+ ("/home/mathad/my-config/" (23680 4867 698357 941000) "LICENSE" "i3/" "dotfiles/" "emacs/" "README.md" "./" "../" ".git/")
+
+ ("/home/mathad/my-config/emacs/core/ergonomics/" (23681 24169 893821 935000) "ergonomics-modules.el" "./" "../" "ergonomics-keybindings.el")
+
+ ("/home/mathad/" (23681 1383 299851 933000) ".xsession-errors.old" "opt/" "FoxitReader.desktop" ".cache/" ".local/" ".Xauthority" "bin/" ".ssh/" ".conky/" "Documents/" ".bash_logout" ".emacs" ".Xdefaults~" ".esd_auth" ".fonts/" ".steampid" "Videos/" ".gtkrc-2.0" ".gnome/" ".bash_history" "Pictures/" ".wallpaper.png" "wget-log.1" ".gitconfig" ".profile" "wget-log.2" ".gimp-2.8/" "my-manjaro/" ".bashrc" ".Xclients" "steam.desktop" ".i3status.conf" ".mozilla/" ".pki/" ".dmrc" "wget-log" ".cask/" ".gnupg/" ".Xdefaults" ".mono/" ".xsession-errors" ".wallpaper.jpg" ".directory" "Downloads/" ".moonchild productions/" ".dir_colors" ".moc/" "rings.lua" ".thumbnails/" ".emacs.d/" ".gphoto/" ".icons/" ".steam/" ".dmenurc" ".bash_profile" "#.bash_history#" "wget-log.3" "my-config/" ".config/" ".Xresources" ".i3/" ".steampath" "wget-log.4" ".urxvt/" ".conkyrc" ".xinitrc" "../" "./")
+
+ ("/home/mathad/my-config/emacs/modules/libs/popup/" (23181 10396 321737 509000) "Cask" "README.md" "Makefile" ".gitignore" ".travis.yml" "etc/" "tests/" "./" "popup.el" "../" ".git")
+
+ ("/home/mathad/my-config/emacs/modules/libs/" (23674 40465 597092 743000) "tablist/" "dash/" "popup/" "./" "s/" "../" "with-editor/")
+
+ ("/home/mathad/my-config/emacs/modules/ui/spinner/" (23664 9496 842423 486000) "all-spinners.gif" "./" "README.org" "../" "spinner.el" ".git/" "some-spinners.gif")
+
+ ("/home/mathad/my-config/emacs/modules/tools/deadgrep/" (23662 34393 557998 340000) "CHANGELOG.md" "Cask" "docs/" "deadgrep.el" "README.md" ".gitignore" ".travis.yml" "test/" "./" "../" ".git/")
+
+ ("/home/mathad/my-config/emacs/core/ui/" (23680 148 47132 379000) "ui-modules.el" "./" "../")
+
+ ("/home/mathad/Pictures/oneplus/thailand/" (23639 8884 50639 684000) "IMG_20180403_120457.jpg" "IMG_20180403_123112.jpg" "IMG_20180406_183908.jpg" "IMG_20180410_151614.jpg" "IMG_20180407_172225.jpg" "IMG_20180405_142820.jpg" "IMG_20180411_143828.jpg" "IMG_20180407_135243.jpg" "IMG_20180415_153303.jpg" "IMG_20180404_182653.jpg" "IMG_20180407_131826.jpg" "IMG_20180418_151919.jpg" "IMG_20180403_143121.jpg" "IMG_20180420_181228.jpg" "IMG_20180407_132600.jpg" "IMG_20180403_142825.jpg" "IMG_20180421_151913.jpg" "IMG_20180407_114248.jpg" "IMG_20180404_181342.jpg" "IMG_20180407_130929.jpg" "IMG_20180421_104534.jpg" "IMG_20180408_130918.jpg" "IMG_20180412_144107.jpg" "IMG_20180422_131945.jpg" "IMG_20180419_144800.jpg" "IMG_20180406_130537.jpg" "IMG_20180421_104033.jpg" "IMG_20180422_142024.jpg" "IMG_20180407_132030.jpg" "IMG_20180422_135819.jpg" "IMG_20180413_115132.jpg" "IMG_20180415_153418.jpg" "IMG_20180403_122641.jpg" "IMG_20180409_161521.jpg" "IMG_20180407_145529.jpg" "IMG_20180409_155736.jpg" "IMG_20180407_182102.jpg" "IMG_20180421_103856.jpg" "IMG_20180421_102635.jpg" "IMG_20180408_183715.jpg" "IMG_20180403_115052.jpg" "IMG_20180411_143825.jpg" "IMG_20180424_170734.jpg" "IMG_20180407_174223.jpg" "IMG_20180409_161902.jpg" "IMG_20180403_115150.jpg" "IMG_20180421_110312.jpg" "IMG_20180424_170816.jpg" "IMG_20180419_154501.jpg" "IMG_20180422_163139.jpg" "IMG_20180407_154416.jpg" "IMG_20180408_115946.jpg" "IMG_20180422_164955.jpg" "IMG_20180421_105106.jpg" "IMG_20180407_145532.jpg" "IMG_20180421_103852.jpg" "IMG_20180418_150756.jpg" "IMG_20180411_144048.jpg" "IMG_20180422_140836.jpg" "IMG_20180407_094642.jpg" "IMG_20180410_085932.jpg" "IMG_20180407_173003.jpg" "IMG_20180412_141424.jpg" "IMG_20180406_184443.jpg" "IMG_20180405_124952.jpg" "IMG_20180407_174453.jpg" "IMG_20180421_175347.jpg" "IMG_20180419_153106.jpg" "IMG_20180403_143235.jpg" "IMG_20180419_145040.jpg" "IMG_20180424_170111.jpg" "IMG_20180403_143751.jpg" "IMG_20180419_151859.jpg" "IMG_20180409_120227.jpg" "IMG_20180407_144929.jpg" "IMG_20180420_135456.jpg" "IMG_20180424_165358.jpg" "IMG_20180412_144053.jpg" "IMG_20180408_172816.jpg" "IMG_20180412_141706.jpg" "IMG_20180407_182239.jpg" "IMG_20180423_181416.jpg" "IMG_20180420_182136.jpg" "IMG_20180410_084322.jpg" "IMG_20180409_160807.jpg" "IMG_20180401_140706.jpg" "IMG_20180421_105117.jpg" "IMG_20180406_103250.jpg" "IMG_20180406_125309.jpg" "IMG_20180418_152903.jpg" "IMG_20180420_114856.jpg" "IMG_20180407_120639.jpg" "IMG_20180406_100910.jpg" "IMG_20180403_135341.jpg" "IMG_20180407_173644.jpg" "IMG_20180407_171944.jpg" "IMG_20180407_131801.jpg" "IMG_20180409_163959.jpg" "IMG_20180407_134709.jpg" "IMG_20180407_092925.jpg" "IMG_20180419_153234.jpg" "IMG_20180404_170226.jpg" "IMG_20180407_130309.jpg" "IMG_20180406_110535.jpg" "IMG_20180418_145645.jpg" "IMG_20180424_165839.jpg" "IMG_20180406_103228.jpg" "IMG_20180407_174112.jpg" "IMG_20180406_153031.jpg" "IMG_20180404_160725.jpg" "IMG_20180407_115316.jpg" "IMG_20180420_131103.jpg" "IMG_20180406_132038.jpg" "IMG_20180420_141300.jpg" "IMG_20180407_094804.jpg" "IMG_20180421_104858.jpg" "IMG_20180410_101402.jpg" "IMG_20180407_141949.jpg" "IMG_20180421_113922.jpg" "IMG_20180406_123535.jpg" "IMG_20180424_165834.jpg" "IMG_20180421_103901.jpg" "IMG_20180407_120624.jpg" "IMG_20180421_180135.jpg" "IMG_20180406_123545.jpg" "IMG_20180407_092825.jpg" "IMG_20180405_132609.jpg" "IMG_20180410_171856.jpg" "IMG_20180407_135537.jpg" "IMG_20180423_182206.jpg" "IMG_20180406_132043.jpg" "IMG_20180421_105356.jpg" "IMG_20180424_170933.jpg" "IMG_20180407_092902.jpg" "IMG_20180403_122836.jpg" "IMG_20180421_110219.jpg" "IMG_20180405_132732.jpg" "IMG_20180407_130625.jpg" "IMG_20180409_121301.jpg" "IMG_20180406_131036.jpg" "IMG_20180412_105701.jpg" "IMG_20180407_200949.jpg" "IMG_20180419_153340.jpg" "IMG_20180407_142227.jpg" "IMG_20180407_132923.jpg" "IMG_20180415_153400.jpg" "IMG_20180415_153310.jpg" "IMG_20180409_180121.jpg" "IMG_20180403_143051.jpg" "IMG_20180407_140101.jpg" "IMG_20180407_092214.jpg" "IMG_20180406_125336.jpg" "IMG_20180409_155732.jpg" "IMG_20180411_173845.jpg" "IMG_20180421_102625.jpg" "IMG_20180405_132745.jpg" "IMG_20180411_143822.jpg" "IMG_20180407_151726.jpg" "IMG_20180410_152200.jpg" "IMG_20180411_150040.jpg" "IMG_20180403_120354.jpg" "IMG_20180407_130202.jpg" "IMG_20180406_095239.jpg" "IMG_20180404_181445.jpg" "IMG_20180407_135411.jpg" "IMG_20180407_130629.jpg" "IMG_20180407_142320.jpg" "IMG_20180424_165554.jpg" "IMG_20180403_122309.jpg" "IMG_20180407_093027.jpg" "IMG_20180421_105610.jpg" "IMG_20180404_181419.jpg" "IMG_20180406_184008.jpg" "IMG_20180418_154737.jpg" "IMG_20180409_161042.jpg" "IMG_20180405_132900.jpg" "IMG_20180407_100116.jpg" "IMG_20180421_110116.jpg" "IMG_20180406_103240.jpg" "IMG_20180407_131729.jpg" "IMG_20180410_114950.jpg" "IMG_20180404_170032.jpg" "IMG_20180420_183825.jpg" "IMG_20180406_132109.jpg" "IMG_20180412_142157.jpg" "IMG_20180407_094749.jpg" "IMG_20180410_090027.jpg" "IMG_20180410_152207.jpg" "IMG_20180423_141715.jpg" "IMG_20180407_120622.jpg" "IMG_20180409_161126.jpg" "IMG_20180410_084257.jpg" "IMG_20180405_142815.jpg" "IMG_20180412_141701.jpg" "IMG_20180410_085857.jpg" "IMG_20180418_151456.jpg" "IMG_20180421_105035.jpg" "IMG_20180404_165359.jpg" "IMG_20180418_145731.jpg" "IMG_20180407_130702.jpg" "IMG_20180420_143707.jpg" "IMG_20180409_162441_012.jpg" "IMG_20180401_144202.jpg" "IMG_20180411_150033.jpg" "IMG_20180405_132911.jpg" "IMG_20180424_171407.jpg" "IMG_20180407_094723.jpg" "IMG_20180412_141412.jpg" "IMG_20180422_124737.jpg" "IMG_20180408_134619.jpg" "IMG_20180419_144911.jpg" "IMG_20180421_104649.jpg" "IMG_20180407_171957.jpg" "IMG_20180407_094633.jpg" "IMG_20180408_172933.jpg" "IMG_20180408_183924.jpg" "IMG_20180407_093220.jpg" "IMG_20180406_095226.jpg" "IMG_20180404_181235.jpg" "IMG_20180405_120138.jpg" "IMG_20180409_121215.jpg" "IMG_20180420_195056.jpg" "IMG_20180403_120151.jpg" "IMG_20180424_170532.jpg" "IMG_20180406_183747.jpg" "IMG_20180406_183342.jpg" "IMG_20180420_114144.jpg" "IMG_20180421_180340.jpg" "IMG_20180411_150106.jpg" "IMG_20180424_170248.jpg" "IMG_20180403_130339.jpg" "IMG_20180404_181230.jpg" "IMG_20180421_105958.jpg" "IMG_20180406_125306.jpg" "IMG_20180424_165612.jpg" "IMG_20180404_171609.jpg" "IMG_20180406_131127.jpg" "IMG_20180423_214636.jpg" "IMG_20180406_125319.jpg" "IMG_20180407_140930.jpg" "IMG_20180412_144341.jpg" "IMG_20180407_115320.jpg" "IMG_20180403_115312.jpg" "IMG_20180407_172445.jpg" "IMG_20180408_183713.jpg" "IMG_20180407_172336.jpg" "IMG_20180405_132752.jpg" "IMG_20180403_130229.jpg" "IMG_20180404_181259.jpg" "IMG_20180421_105112.jpg" "IMG_20180410_140805.jpg" "IMG_20180407_151923.jpg" "IMG_20180402_152300.jpg" "IMG_20180403_135547.jpg" "IMG_20180407_093204.jpg" "IMG_20180407_173637.jpg" "IMG_20180412_105844.jpg" "IMG_20180405_120131.jpg" "IMG_20180404_133547.jpg" "IMG_20180407_131307.jpg" "IMG_20180421_105110.jpg" "IMG_20180424_165523.jpg" "IMG_20180421_103848.jpg" "IMG_20180407_134210.jpg" "IMG_20180407_173103.jpg" "IMG_20180424_170421.jpg" "IMG_20180403_122732.jpg" "IMG_20180407_174858.jpg" "IMG_20180407_151919.jpg" "IMG_20180407_132033.jpg" "IMG_20180403_134858.jpg" "IMG_20180420_141241.jpg" "IMG_20180410_140651.jpg" "IMG_20180407_135533.jpg" "IMG_20180408_124142.jpg" "IMG_20180403_122140.jpg" "IMG_20180410_092852.jpg" "IMG_20180405_132526.jpg" "IMG_20180421_105116.jpg" "IMG_20180421_110320.jpg" "IMG_20180418_151826.jpg" "IMG_20180409_160759.jpg" "IMG_20180406_125303.jpg" "IMG_20180407_140058.jpg" "IMG_20180410_084324.jpg" "IMG_20180407_092242.jpg" "IMG_20180406_100933.jpg" "IMG_20180407_135358.jpg" "IMG_20180407_144927.jpg" "IMG_20180407_173742.jpg" "IMG_20180407_174821.jpg" "IMG_20180421_102626.jpg" "IMG_20180407_113148.jpg" "IMG_20180409_160824.jpg" "IMG_20180403_143746.jpg" "IMG_20180405_133104.jpg" "IMG_20180407_102703.jpg" "IMG_20180407_094732.jpg" "IMG_20180407_143319.jpg" "IMG_20180408_130924.jpg" "IMG_20180406_123743.jpg" "IMG_20180407_135004.jpg" "IMG_20180419_114250.jpg" "IMG_20180418_150924.jpg" "IMG_20180421_175553.jpg" "IMG_20180403_130441.jpg" "IMG_20180410_130957.jpg" "IMG_20180406_205541.jpg" "IMG_20180422_125537.jpg" "IMG_20180423_143626.jpg" "IMG_20180420_181958.jpg" "IMG_20180411_174224.jpg" "IMG_20180405_132756.jpg" "IMG_20180418_151544.jpg" "IMG_20180420_114604.jpg" "IMG_20180415_153235.jpg" "IMG_20180421_110248.jpg" "IMG_20180407_130431.jpg" "IMG_20180422_133009.jpg" "IMG_20180410_090356.jpg" "IMG_20180408_122538.jpg" "IMG_20180412_143924.jpg" "IMG_20180418_145657.jpg" "IMG_20180405_132337.jpg" "IMG_20180407_131634.jpg" "IMG_20180419_155916.jpg" "IMG_20180407_130208.jpg" "IMG_20180418_150007.jpg" "IMG_20180419_153343.jpg" "IMG_20180413_093002.jpg" "IMG_20180407_134145.jpg" "IMG_20180413_124737.jpg" "IMG_20180409_161336.jpg" "../" "./")
+
+ ("/home/mathad/Pictures/oneplus/" (23585 10685 732025 127000) "IMG_20171129_224319.jpg" "IMG_20171122_151101.jpg" "IMG_20181220_163943.jpg" "IMG_20171203_210253.jpg" "sri lanka/" "IMG_20171203_210248.jpg" "IMG_20181220_162821.jpg" "IMG_20171125_155608.jpg" "IMG_20181220_163910.jpg" "IMG_20181220_163257.jpg" "IMG_20181220_164047.jpg" "IMG_20180726_185545.jpg" "IMG_20181220_164114.jpg" "IMG_20171118_155034.jpg" "thailand/" "IMG_20171118_205552.jpg" "IMG_20171104_105644.jpg" "IMG_20171118_172101.jpg" "IMG_20171122_151048.jpg" "peru/" "laos/" "IMG_20171118_172117.jpg" "IMG_20181220_162302.jpg" "IMG_20181220_163006.jpg" "IMG_20180726_185551.jpg" "IMG_20171118_172124.jpg" "IMG_20180726_185603.jpg" "IMG_20181122_141805.jpg" "california/" "argentina/" "IMG_20171115_000401.jpg" "IMG_20171202_093729.jpg" "IMG_20181220_163909.jpg" "malaysia/" "singapore/" "IMG_20171122_151052.jpg" "chili/" "bolivia/" "IMG_20181220_162809.jpg" "IMG_20181220_164025.jpg" "india/" "IMG_20181220_163927.jpg" "IMG_20181220_163838.jpg" "IMG_20181220_162845.jpg" "maldives/" "nepal/" "IMG_20171203_210243.jpg" "IMG_20171118_172422.jpg" "IMG_20171123_171103.jpg" "IMG_20171122_151042.jpg" "IMG_20181220_163248.jpg" "IMG_20171104_205219.jpg" "IMG_20181220_164059.jpg" "IMG_20181220_162832.jpg" "IMG_20171122_140205.jpg" "vietnam/" "IMG_20181220_161412.jpg" "IMG_20181220_163017.jpg" "IMG_20181220_163947.jpg" "IMG_20181220_163928.jpg" "IMG_20171122_232842.jpg" "IMG_20181221_123701.jpg" "colombia/" "cambodia/" "../" "./")
+
+ ("/home/mathad/Pictures/" (23677 16001 390664 521000) "daft_punk.png" "digikam4.db" "2019-02-10-231240_3840x1080_scrot.png" "p6pb14541025.jpg" "passport.pdf" "uyuni/" "IMG_20190110_112808.jpg" "2019-02-05-192604_3840x1080_scrot.png" "IMG_20190110_112725.jpg" "tupiza/" "daft-punk2.jpg" "IMG_20190110_112740.jpg" "2019-01-29-113925_3840x1080_scrot.png" "IMG_20190111_202606.jpg" "recognition.db" "singapore/" "thumbnails-digikam.db" "daft.jpg" "2019-03-03-161012_3840x1080_scrot.png" ".dtrash/" "2019-01-22-172312_3840x1080_scrot.png" ".directory" "maldives/" "similarity.db" "./" "2018-12-29-145927_1920x1080_scrot.png" "2019-01-15-100923_3840x1080_scrot.png" "2019-03-04-160433_3840x1080_scrot.png" "tiger-jungle.png" "IMG_20190110_112759.jpg" "thumbnail_IMAG0192.jpg" "daft_punk_wallpaper___random_access_memories_by_nhgraphicdesigns-d66rpc2.jpg" "passport.jpg" "2019-01-30-113806_1920x1080_scrot.png" "2019-02-05-192605_3840x1080_scrot.png" "../" "2019-02-05-192606_3840x1080_scrot.png" "rx100/" "oneplus/" "2019-01-22-172313_3840x1080_scrot.png" "lgegHRF.jpg" "2019-02-06-090629_3840x1080_scrot.png")
+
+ ("/home/mathad/my-config/emacs/core/" (23679 47358 161112 384000) "ergonomics/" "libs/" "theme/" "testing/" "./" "ui/" "tools/" "../" "programming/")
+
+ ("/home/mathad/my-config/emacs/core/config/" (23679 43137 421480 377000) "keybindings.el" "modules.el~" "modules.el" "projects.el" "main.el~" "./" "../" "main.el")
+
+ ("/home/mathad/my-config/emacs/core/tools/" (23679 39617 846349 404000) "tools-modules.el~" "tools-keybindings.el~" "./" "../" "tools-modules.el" "tools-keybindings.el")
+
+ ("/home/mathad/my-config/emacs/modules/ergonomics/" (23674 40548 270700 444000) "buffer-move/" "popwin/" "auto-complete/" "./" "../" "zoom/" "which-key/" "dired+/")
+
+ ("/home/mathad/Documents/perso/" (23674 23654 426053 5000) "impots/" "passport.pdf" "./" "photo_ID.pdf" "../" "carte_identite.pdf" "permis-moto.pdf")
+
+ ("/home/mathad/Downloads/dot-emacs/" (23676 61714 461136 506000) "init.el" "powerline.png" "LICENSE.md" "init.org" "./" "README.org" "../" ".git/")
+
+ ("/home/mathad/my-config/emacs/core/libs/" (23675 45926 552672 72000) "./" "libs-modules.el" "../")
+
+ ("/home/mathad/Documents/backups/my-config/emacs/modules/auto-complete/" (23181 10396 91734 7000) "auto-complete.el" "Cask" "COPYING.GPLv3" "README.md" "doc/" "Makefile" ".gitignore" "auto-complete-pkg.el" ".travis.yml" "dict/" "etc/" "tests/" "./" "../" "COPYING.FDL" "TODO.md" "auto-complete-config.el" ".git")
+
+ ("/home/mathad/my-config/emacs/modules/tools/" (23674 40355 660060 876000) "org-mode/" "magit/" "pdf-tools/" "google-this/" "./" "wgrep/" "system-packages/" "../" "deadgrep/")
+
+ ("/home/mathad/my-config/emacs/modules/" (23674 40489 693839 403000) "ergonomics/" "libs/" "testing/" "./" "ui/" "tools/" "../" "programming/")
+
+ ("/home/mathad/Documents/backups/my-config/emacs/configuration/" (23674 43847 544841 18000) ".#keybindings.el" "keybindings.el" "modules.el" "projects.el" "./" "#keybindings.el#" "../" "main.el")
+
+ ("/home/mathad/Documents/backups/my-config/emacs/modules/" (23664 9493 72411 163000) "xcscope/" "undo-tree/" "buffer-move/" "org-mode/" "tablist/" "makefile-runner/" "magit/" "dash/" "pdf-tools/" "popwin/" "google-this/" "popup/" "auto-complete/" "symon/" "spinner/" "./" "s/" "wgrep/" "system-packages/" "virtual-desktops/" "evil/" "../" "zoom/" "deadgrep/" "which-key/" "with-editor/" "dired+/" "telephone-line/")
+
+ ("/home/mathad/Documents/backups/my-config/emacs/" (23642 52485 112522 677000) "modules/" "configuration/" "theme/" "./" ".emacs.d/" "../")
+
+ ("/home/mathad/Documents/backups/my-config/" (23368 29777 200165 658000) "dotfiles/" "emacs/" ".gitmodules" "./" "setup.sh" "../" ".gitmodules.save" ".git/" "environment/")
+
+ ("/home/mathad/Documents/backups/" (23674 23701 522871 361000) "Nexus6/" "./" "my-config/" "../")
+
+ ("/home/mathad/Documents/" (23674 23701 522871 361000) "cours/" "perso/" "backups/" "work/" "./" "voyage/" "../" "my_dev/")
+
+ ("/etc/systemd/" (23673 10685 834260 186000) "journal-remote.conf" "sleep.conf" "system.conf.d/" "journal-upload.conf" "journald.conf" "logind.conf" "network/" "user.conf" "resolved.conf" "system/" "timesyncd.conf" "system.conf" "./" "user/" "../" "networkd.conf" "coredump.conf" "user.conf.d/")
+
+ ("/home/mathad/Downloads/" (23673 28682 747672 376000) "cours/" "emacs.epub" "Mathieu_Hadjimegrian_IMM5707.pdf" "signature.cer" "maman/" "dotfiles/" "randonnees(1).pdf" "clacul_fin.pdf" "polybar/" "Emacs-Elisp-Programming-gh-pages.zip" "Kernel-Map.pdf" "IMM5756_1-I52CG46.pdf" "tout-le-monde-merite-detre-riche.pdf" ".directory" "RICE.pdf" "photo_id.jpg" "./" "2019041805224" ".emacs.d/" "themer/" "randonnees.pdf" "2019041805222" "2019041805223" "refcard.pdf" "../" "2019035703959" "Z-TURN_V13_20180601.iso" "demo-couple-etat-matri-femme.xls" "emacs.pdf")
+
+ ("/home/mathad/my-config/dotfiles/" (23674 27019 116291 663000) ".emacs" ".fonts/" ".emacs~" "./" "../" ".Xresources")
+
+ ("/home/mathad/Downloads/.emacs.d/bin/" (23662 47257 0 0) "org-capture" "./" "org-tangle" "../" "doom-doctor")
+
+ ("/home/mathad/Downloads/.emacs.d/" (23662 47597 0 0) "init.el" ".local/" "bin/" "LICENSE" ".github/" "modules/" "core/" "README.md" "init.test.el" "Makefile" ".gitignore" ".travis.yml" "./" "../" "init.example.el" "CHANGELOG.org" ".git/")
+
+ ("/home/mathad/my-config/environment/config/" (23674 23433 62022 770000) "i3blocks.conf" "config" "./" "../" "i3exit")
+
+ ("/home/mathad/my-config/emacs/modules/dired+/" (23662 45056 447411 184000) "dired+.el" "./" "../")
+
+ ("/home/mathad/my-config/emacs/configuration/" (23662 45753 829689 352000) "keybindings.el" "modules.el" "projects.el" "./" "../" "main.el")
+
+ ("/home/mathad/my-config/emacs/modules/auto-install/" (23650 38939 131078 709000) "auto-install.el" "./" "../")
+
+ ("/home/mathad/.config/fontconfig/conf.d/" (23649 48626 733437 4000) "30-icons.conf~" "./" "../" "30-icons.conf")
+
+ ("/home/mathad/my-config/emacs/modules/minimap/" (23649 41854 602807 262000) "minimap.el" "README.md" "./" "../" ".git/")
+
+ ("/home/mathad/Documents/my_dev/C/driver/" (23135 17228 0 0) "driver.c" "driver.c~" "./" "driver.h" "../" "driver.h~")
+
+ ("/home/mathad/Documents/my_dev/C/" (23135 17228 0 0) "./" "../" "driver/")
+
+ ("/home/mathad/Documents/my_dev/" (23135 17228 0 0) "dev/" "C++/" "driver1.c" "test.c~" "test.c" "lvds.c" "doc/" "lvds.h" "C/" "test" "./" "../" "driver-stage/" "test.o" ".git/")
+
+ ("/home/mathad/.config/fontconfig/" (23649 39233 590566 175000) "./" "conf.d/" "../")
+
+ ("/home/mathad/.config/" (23649 39233 590566 175000) "filezilla/" "fontforge/" "user-dirs.locale" "volumeicon/" "dconf/" "Pinta/" "knfsshare" "Code/" "xarchiver/" "fontconfig/" "nomacs/" "morc_menu/" "sublime-text-3/" "vlc/" "baloofileinformationrc" "libreoffice/" "manjaro-hello.json" "transmission/" "gtk-2.0/" "gthumb/" "i3-scrot.conf" "ranger/" "nitrogen/" "polybar/" "gtk-3.0/" "dmenu-recent/" "chromium/" "user-dirs.dirs" "spotify/" "epdfview/" "skypeforlinux/" "kdeconnect/" "dunst/" "libfm/" "hexchat/" "compton.conf" "pavucontrol.ini" "clipit/" "dolphinrc" "Foxit Software/" "./" "pcmanfm/" "themer/" "Thunar/" "akonadi/" "digikamrc" "conky-manager.json" "autostart/" "pulse/" "trashrc" "menus/" "../" "qt5ct/" "filetypesrc" "QtProject.conf" "xfce4/" "Kvantum/" "mono.addins/" "qupzilla/" "viewnior/" "baloofilerc" "mimeapps.list" "gconf/")
+
+ ("/home/mathad/Downloads/icons-in-terminal/" (23649 39327 317553 425000) "print_icons.sh" "LICENSE" "uninstall.sh" "install.sh" "build/" "fonts/" "config.json" "README.md" ".gitignore" "./" "image/" "../" "build.sh" ".git/" "scripts/" "install-autodetect.sh")
+
+ ("/home/mathad/my-config/emacs/modules/symon/" (23181 18047 314504 876000) ".gitignore" "symon.el" "img/" "./" "../" ".git" "Readme.org")
+
+ ("/home/mathad/my-config/emacs/modules/org-mode/" (23642 53587 469299 663000) "contrib/" "doc/" "Makefile" ".gitignore" "testing/" ".gitmodules" "COPYING" "lisp/" "etc/" "./" "README_maintainer" "README_git" "README" "../" "mk/" "README_contribute" ".dir-locals.el" "README_ELPA" ".git/" "request-assign-future.txt")
+
+ ("/home/mathad/Downloads/cours/" (23642 42716 154444 796000) "lycos.jpg" "firstwebsite.jpg" "website.zip" "./" "../" "FirstVersions_Google-Demo-screenshot.png")
+
+ ("/home/mathad/.i3/" (23614 11256 858985 277000) "config~" "config" "./" "../" ".git/")
+
+ ("/run/media/mathad/SAVE/" (23600 61748 0 0) "BOOTEX.LOG" "ERIC/" "50 Ans de Dany/" "100_PANA/" "Livret FAWZIA 2.doc" "Elodie BDC FAWZIA.doc" "SKMBT_C22011030315100.pdf" "CV ERIC MEILLAN (2).doc" "Doc 1 Le parcours pro et formation FAWZIA.doc" "fiche projet - VAE - juin 2010.doc" "didier-berthet-pilon1.txt" "les 5 niveaux de la personnalité.doc" "BON CADEAU.doc" "autres photos/" "M4/" "M3/" "M2/" "M1/" "VIDEO/" "PHOTO/" "PHOTO M/" "Favoris/" "Bureau/" "Archive Eric.pst" "Notes DATA/" "Outlook NK2/" "FOUND.001/" "FOUND.000/" "../" "./")
+
+ ("/run/media/mathad/" (23600 61488 455177 660000) "SAVE/" "../" "./")
+
+ ("/run/media/" (23600 61069 236788 769000) "mathad/" "../" "./")
+
+ ("/run/" (23600 61069 236788 769000) "initramfs/" "tmpfiles.d/" "udev/" "mount/" "systemd/" "dmeventd-server" "dmeventd-client" "initctl" "lvm/" "lvmetad.pid" "lock/" "log/" "cryptsetup/" "lightdm/" "mysqld/" "nscd/" "openvpn-client/" "openvpn-server/" "sudo/" "svnserve/" "user/" "utmp" "dbus/" "cups/" "avahi-daemon/" "crond.pid" "cron.reboot" "NetworkManager/" "lightdm.pid" "tlp/" "udisks2/" "media/" "../" "./")
+
+ ("/home/mathad/Pictures/oneplus/singapore/" (23583 60618 127838 115000) "IMG_20180806_160126.jpg" "IMG_20180807_203729.jpg" "IMG_20180807_133532.jpg" "IMG_20180807_204558.jpg" "IMG_20180809_201325.jpg" "IMG_20180807_204606.jpg" "IMG_20180807_204023.jpg" "IMG_20180809_201645.jpg" "IMG_20180807_152425.jpg" "IMG_20180302_140523.jpg" "IMG_20180807_134220.jpg" "IMG_20180807_133131.jpg" "IMG_20180807_131506.jpg" "IMG_20180807_204604.jpg" "IMG_20180807_145252.jpg" "IMG_20180809_194711.jpg" "IMG_20180807_204147.jpg" "IMG_20180807_204959.jpg" "IMG_20180807_204734.jpg" "IMG_20180807_204610.jpg" "./" "IMG_20180808_184511.jpg" "IMG_20180807_215933.jpg" "IMG_20180810_204947.jpg" "IMG_20180807_150310.jpg" "IMG_20180807_204909.jpg" "IMG_20180807_141951.jpg" "IMG_20180807_144944.jpg" "IMG_20180807_125340.jpg" "IMG_20180807_203624.jpg" "IMG_20180808_184518.jpg" "IMG_20180807_131459.jpg" "IMG_20180807_203715.jpg" "../" "IMG_20180807_143335.jpg" "IMG_20180808_184502.jpg" "IMG_20180807_204823.jpg" "IMG_20180807_152330.jpg" "IMG_20180807_204655.jpg" "IMG_20180807_183903.jpg" "IMG_20180807_142625.jpg" "IMG_20180807_143256.jpg" "IMG_20180807_142619.jpg" "IMG_20180807_135412.jpg" "IMG_20180807_131602.jpg" "IMG_20180807_204739.jpg")
+
+ ("/home/mathad/Pictures/oneplus/nepal/" (23583 59697 687997 266000) "IMG_20171226_162951.jpg" "IMG_20171229_160759.jpg" "IMG_20171206_131413.jpg" "IMG_20171218_115743.jpg" "IMG_20171208_160251.jpg" "IMG_20180104_101208.jpg" "IMG_20171218_091058.jpg" "IMG_20171212_113207.jpg" "IMG_20171230_111754.jpg" "IMG_20171206_131754.jpg" "IMG_20171229_145824.jpg" "IMG_20171218_091953.jpg" "IMG_20171214_112847.jpg" "IMG_20171224_152348.jpg" "IMG_20171208_214706.jpg" "IMG_20180116_130056.jpg" "IMG_20171222_095804.jpg" "IMG_20171221_094304.jpg" "IMG_20171206_150529.jpg" "IMG_20171218_092016.jpg" "IMG_20180112_124850.jpg" "IMG_20171208_162546.jpg" "IMG_20171213_111105.jpg" "IMG_20171220_122530.jpg" "IMG_20171208_214703.jpg" "IMG_20171217_140448.jpg" "IMG_20171212_140042.jpg" "IMG_20171212_140046.jpg" "IMG_20171226_112506.jpg" "IMG_20171221_094229.jpg" "IMG_20171206_141420.jpg" "IMG_20171211_120745.jpg" "IMG_20171212_160718.jpg" "IMG_20171208_161428.jpg" "IMG_20180115_104755.jpg" "IMG_20171213_144008.jpg" "IMG_20171210_163615.jpg" "IMG_20171210_112834.jpg" "IMG_20171216_154514.jpg" "IMG_20171211_124057.jpg" "IMG_20180101_121235.jpg" "IMG_20171230_111718.jpg" "IMG_20171221_070140.jpg" "IMG_20171217_164127.jpg" "IMG_20171228_212228.jpg" "IMG_20171231_113704.jpg" "IMG_20171209_211638.jpg" "IMG_20171211_142409.jpg" "IMG_20171210_112832.jpg" "IMG_20171213_094843.jpg" "IMG_20180115_094220.jpg" "IMG_20171218_091512.jpg" "IMG_20171215_080826.jpg" "IMG_20171218_090948.jpg" "IMG_20171227_105816.jpg" "IMG_20171205_044640.jpg" "IMG_20180115_091738.jpg" "IMG_20171227_151917.jpg" "IMG_20171210_200402.jpg" "IMG_20171212_085550.jpg" "IMG_20180105_095553.jpg" "IMG_20180115_091551.jpg" "IMG_20171208_165106.jpg" "IMG_20171224_210442.jpg" "IMG_20180104_101219.jpg" "IMG_20171217_140132.jpg" "IMG_20171222_132010.jpg" "IMG_20171206_144731.jpg" "IMG_20171215_095438.jpg" "IMG_20171211_095942.jpg" "IMG_20171206_144651.jpg" "IMG_20180109_141802.jpg" "IMG_20171214_103306.jpg" "IMG_20171212_140804.jpg" "IMG_20180112_124836.jpg" "IMG_20171212_122443.jpg" "IMG_20171206_130940.jpg" "IMG_20171206_141953.jpg" "IMG_20171210_120727.jpg" "IMG_20171208_165658.jpg" "IMG_20171212_122305.jpg" "IMG_20171218_091159.jpg" "IMG_20171221_093708.jpg" "IMG_20171208_164835.jpg" "IMG_20171218_082900.jpg" "IMG_20171211_162509.jpg" "IMG_20171213_093559.jpg" "IMG_20171213_085437.jpg" "IMG_20171214_083712.jpg" "IMG_20171218_124925.jpg" "IMG_20171228_121046.jpg" "IMG_20171214_105545_01.jpg" "IMG_20180109_101946.jpg" "IMG_20171211_115308.jpg" "IMG_20171206_130936.jpg" "IMG_20171222_131038.jpg" "IMG_20171210_113001.jpg" "IMG_20171218_124515.jpg" "IMG_20171218_104958.jpg" "IMG_20171210_120735.jpg" "IMG_20171205_042709.jpg" "IMG_20171230_120809.jpg" "IMG_20171208_120555.jpg" "IMG_20171210_161654.jpg" "IMG_20171212_124449.jpg" "IMG_20180107_172401.jpg" "IMG_20171210_200414.jpg" "IMG_20171217_125643.jpg" "IMG_20171211_122554.jpg" "IMG_20180115_102427.jpg" "IMG_20171211_122251.jpg" "IMG_20171205_171215.jpg" "IMG_20171222_144646.jpg" "IMG_20180109_142242.jpg" "IMG_20180109_093855.jpg" "IMG_20180109_095029.jpg" "IMG_20180106_093732.jpg" "IMG_20171209_104708.jpg" "IMG_20171209_141210.jpg" "IMG_20171214_082052.jpg" "IMG_20171212_160318.jpg" "IMG_20171211_162454.jpg" "IMG_20180115_093320.jpg" "IMG_20171218_124349.jpg" "IMG_20171210_163630.jpg" "IMG_20171206_140505.jpg" "IMG_20180109_104553.jpg" "IMG_20171206_130539.jpg" "IMG_20171221_094246.jpg" "IMG_20180109_103326.jpg" "IMG_20171206_130419.jpg" "IMG_20171205_051334.jpg" "IMG_20171211_135238.jpg" "IMG_20171212_095621.jpg" "IMG_20180115_110716.jpg" "IMG_20171205_051341.jpg" "IMG_20171231_140848.jpg" "IMG_20171211_170208.jpg" "IMG_20171211_122601.jpg" "IMG_20171218_122236.jpg" "IMG_20171210_123258.jpg" "IMG_20171206_130722.jpg" "IMG_20171230_105720.jpg" "IMG_20171219_082824.jpg" "IMG_20171211_115916.jpg" "IMG_20171218_091203.jpg" "IMG_20171222_140316.jpg" "IMG_20171209_205513.jpg" "IMG_20171209_205414.jpg" "IMG_20171216_100247.jpg" "IMG_20180115_135912.jpg" "IMG_20171210_112807.jpg" "IMG_20171214_080506.jpg" "IMG_20171216_120247.jpg" "IMG_20180104_101234.jpg" "IMG_20171222_170129.jpg" "IMG_20171224_152346.jpg" "IMG_20171216_154428.jpg" "IMG_20171213_120420.jpg" "IMG_20171217_103201.jpg" "IMG_20171209_161324.jpg" "IMG_20180104_101232.jpg" "IMG_20171208_162543.jpg" "IMG_20171230_111720.jpg" "IMG_20171206_141347.jpg" "IMG_20171211_063818.jpg" "IMG_20171216_100847.jpg" "IMG_20171207_132836.jpg" "IMG_20180115_104653.jpg" "IMG_20171219_154148.jpg" "IMG_20171205_044430.jpg" "IMG_20171206_125447.jpg" "IMG_20171218_125633.jpg" "IMG_20171212_114141.jpg" "IMG_20180107_195705.jpg" "IMG_20180104_101158.jpg" "IMG_20171213_151813.jpg" "IMG_20171218_110202.jpg" "IMG_20180115_094206.jpg" "IMG_20171206_140608.jpg" "IMG_20180109_103030.jpg" "IMG_20180115_142918.jpg" "IMG_20171217_143435.jpg" "IMG_20171206_122523.jpg" "IMG_20180109_172003.jpg" "IMG_20171217_151630.jpg" "IMG_20180115_102817.jpg" "IMG_20171206_135350.jpg" "IMG_20180109_103204.jpg" "IMG_20171216_154446.jpg" "IMG_20171211_142415.jpg" "IMG_20171206_144536.jpg" "IMG_20171219_142255.jpg" "IMG_20171218_104218.jpg" "IMG_20171206_182940.jpg" "IMG_20171206_144655.jpg" "IMG_20171211_115012.jpg" "IMG_20171215_155305.jpg" "IMG_20171218_090951.jpg" "IMG_20171230_105704.jpg" "IMG_20180115_093707.jpg" "IMG_20171211_115931.jpg" "IMG_20171212_101953.jpg" "IMG_20171222_144656.jpg" "IMG_20171230_120820.jpg" "IMG_20171215_155108.jpg" "IMG_20171209_205507.jpg" "IMG_20171216_072521.jpg" "IMG_20171218_124353.jpg" "IMG_20171228_121058.jpg" "IMG_20171215_081418.jpg" "IMG_20171210_160556.jpg" "IMG_20180115_121826.jpg" "IMG_20180109_172010.jpg" "IMG_20171221_185430.jpg" "IMG_20171206_140516.jpg" "IMG_20171209_213711.jpg" "IMG_20171216_132241.jpg" "IMG_20171206_135811.jpg" "IMG_20180115_131315.jpg" "IMG_20171217_133010.jpg" "IMG_20171230_160018.jpg" "IMG_20180115_093428.jpg" "IMG_20171212_105530.jpg" "IMG_20171206_131424.jpg" "IMG_20171212_085755.jpg" "IMG_20171212_121434.jpg" "IMG_20171216_112205.jpg" "IMG_20180115_091815.jpg" "IMG_20171228_193718.jpg" "IMG_20171204_133001.jpg" "IMG_20171206_131418.jpg" "IMG_20171206_135402.jpg" "IMG_20171212_085638.jpg" "IMG_20171211_120941.jpg" "IMG_20180109_173111.jpg" "IMG_20171206_125313.jpg" "IMG_20180115_092313.jpg" "IMG_20171227_173932.jpg" "IMG_20171221_094245.jpg" "IMG_20171217_163924.jpg" "IMG_20171228_153817.jpg" "IMG_20171214_112902.jpg" "IMG_20171206_135359.jpg" "IMG_20171222_131413.jpg" "IMG_20171211_133147.jpg" "IMG_20180106_142854.jpg" "IMG_20171211_123336.jpg" "IMG_20180104_101215.jpg" "IMG_20171211_115007.jpg" "IMG_20171205_205352.jpg" "IMG_20171218_110037.jpg" "IMG_20171230_120806.jpg" "IMG_20171229_150006.jpg" "IMG_20171230_105713.jpg" "IMG_20171206_141328.jpg" "IMG_20171206_140712.jpg" "IMG_20171214_094826.jpg" "IMG_20180101_001136.jpg" "../" "./")
+
+ ("/home/mathad/Downloads/dotfiles/.i3/lemonbar/" (23211 53402 49502 366000) "i3_lemonbar_parser.sh" "i3_workspaces.pl" "README.md" "i3_lemonbar_conky" "i3_lemonbar_config" "i3_workspaces.py" "./" "../" "i3_lemonbar.sh")
+
+ ("/home/mathad/.conky/" (23363 12189 351070 501000) "Green Apple Desktop/" "rings-v1.3.1.lua~" ".themepacks" "TeejeeTech/" "fonts/" "Conky Seamod/" "conky-startup.sh" "rings-v1.3.1.lua" "WIU/" "Conky MIUI/" "Conky-Minimalism-master/" "Gotham/" "./" "../" "hightech/")
+
+ ("/home/mathad/Pictures/maldives/" (23231 18991 195072 999000) "IMG_20180326_163858.jpg" "IMG_20180323_140817.jpg" "IMG_20180325_170128.jpg" "IMG_20180328_101046.jpg" "IMG_20180323_135710.jpg" "IMG_20180323_124657.jpg" "IMG_20180326_131937.jpg" "IMG_20180326_141743.jpg" "IMG_20180325_100041.jpg" "IMG_20180328_102256.jpg" "IMG_20180323_135118.jpg" "IMG_20180323_140716.jpg" "IMG_20180326_141342.jpg" "IMG_20180326_165010.jpg" "IMG_20180326_165142.jpg" "IMG_20180326_164853.jpg" "IMG_20180326_132147.jpg" "IMG_20180323_124211.jpg" "IMG_20180326_125941.jpg" "IMG_20180326_141936.jpg" "DSC06744.JPG" "../" "./")
+
+ ("/home/mathad/my-config/emacs/modules/virtual-desktops/" (23368 28035 331305 608000) "virtual-desktops.el" "README.md" "./" "../" ".git")
+
+ ("/usr/share/conky/" (23361 61809 17151 428000) "conky_grey" "conky_maia~" "conky1.10_shortcuts_solarized" "conky1.10_shortcuts_maia" "conky_shortcuts_live_maia" "conky1.10_shortcuts_maia.pacnew" "conky1.10_shortcuts_green" "conky1.10_shortcuts_grey" "conky_shortcuts_live_solarized" "conky_shortcuts_live_green" "conky1.10_shortcuts_maia~" "conky_maia.pacnew" "./" "conky_maia" "../" "conky_green" "conky_solarized" "conky_shortcuts_live_grey")
+
+ ("/usr/share/" (23363 7933 880734 800000) "pavucontrol/" "nano/" "bison/" "zoneinfo/" "common-lisp/" "glade/" "gtk-doc/" "enchant/" "vim/" "xsessions/" "libgphoto2_port/" "slsh/" "man/" "kvantumpreview/" "tlp/" "volumeicon/" "gtksourceview-3.0/" "rofi/" "syslog-ng/" "gir-1.0/" "gst-plugins-base/" "perl5/" "hunspell/" "applications/" "app-info/" "ntp/" "xcb/" "gutenprint/" "backgrounds/" "sip/" "moc/" "toluapp/" "info/" "vala/" "morc_menu/" "tabset/" "makepkg-template/" "subversion/" "libgpg-error/" "grub/" "mono-2.0/" "gettext-0.19.8/" "simple-scan/" "xml/" "vlc/" "pygobject/" "lshw/" "dnsmasq/" "fonts/" "emacs/" "iana-etc/" "system-config-printer/" "locale/" "autoconf/" "ufw/" "wayland/" "texinfo/" "icu/" "colord/" "appdata/" "gufw/" "gtk-2.0/" "factory/" "zsh/" "gtk-engines/" "conky-manager/" "sounds/" "hwinfo/" "thumbnailers/" "jay/" "manjaro-hello/" "aclocal/" "terminfo/" "color/" "openal/" "gtk-3.0/" "cups/" "jack-audio-connection-kit/" "gitk/" "mkinitcpio/" "cracklib/" "pkgconfig/" "desktop-directories/" "licenses/" "keyutils/" "ImageMagick-6/" "GConf/" "apr-1/" "libwacom/" "java/" "color-schemes/" "gtksourceview-2.0/" "zenity/" "gst-plugins-bad/" "doc/" "epdfview/" "gapi-2.0/" "dunst/" "installed-tests/" "glib-2.0/" "pulseaudio/" "tc/" "libfm/" "poppler/" "mypaint-data/" "libthai/" "hwdata/" "aclocal-1.15/" "os-prober/" "hplip/" "snmp/" "dmenu/" "pixmaps/" "awk/" "icons/" "libgphoto2/" "ecryptfs-utils/" ".mono/" "dict/" "conky/" "themes/" "ImageMagick-7/" "ss/" "misc/" "gettext/" "mesa-demos/" "gksu/" "help/" "gdb/" "blueman/" "./" "imlib2/" "metainfo/" "pcmanfm/" "ca-certificates/" "gvfs/" "automake-1.15/" "pygtk/" "ghostscript/" "bash-completion/" "git/" "git-core/" "gitweb/" "themer/" "alsa/" "Thunar/" "gstreamer-1.0/" "wayland-protocols/" "et/" "slick-greeter/" "graphite2/" "libdrm/" "gnome/" "lxappearance/" "classes/" "i18n/" "myspell/" "cmake/" "lensfun/" "defaults/" "readline/" "pacman-mirrors/" "sbxkb/" "openvpn/" "sane/" "lxinput/" "fzf/" "w3m/" "xfburn/" "xgreeters/" "foomatic/" "gnome-vpn-properties/" "../" "mobile-broadband-provider-info/" "qt/" "fish/" "qt5ct/" "libgc-mono/" "kf5/" "systemd/" "vulkan/" "kbd/" "gcc-8.1.1/" "iso-codes/" "libtool/" "xfce4/" "libalpm/" "Kvantum/" "sgml/" "accountsservice/" "avahi/" "file/" "hspell/" "libcaca/" "dbus-1/" "dhcpcd/" "libgksu/" "polkit-1/" "makepkg/" "ppd/" "X11/" "groff/" "guile/" "mime/" "m17n/" "kvantummanager/" "viewnior/" "ffmpeg/" "git-gui/" "omf/" "pacman/" "gnupg/" "p11-kit/" "glvnd/" "gconf/" "kde4/" "plank/" "liblouis/" "dhclient/" "gimp/" "ibus/")
+
+ ("/usr/" (23363 7934 134071 407000) "bin/" "share/" "lib/" "lib32/" "local/" "sbin/" "src/" "./" "include/" "lib64/" "../")
+
+ ("/etc/" (23361 55744 326859 608000) "yaourtrc" "request-key.d/" "securetty" "vconsole.conf" "inputrc" "udev/" "passwd" "locale.gen" "mdadm.conf" "logrotate.conf" "default/" "exports" "mime.types" "adjtime" "cron.hourly/" "man_db.conf" "syslog-ng/" "pam.d/" "profile" "vdpau_wrapper.cfg" "lightdm/" "vpnc/" "bash.bash_logout" "nfs.conf" "i3/" "nginx/" "ld.so.cache" "initcpio/" "rc.local.shutdown" "mkinitcpio.d/" "trusted-key.key" "xml/" "sane.d/" "dhcpcd.conf" "cron.monthly/" "passwd-" "fonts/" ".updated" ".pwd.lock" "manjaro-firefox.ini" "rpc" "arch-release" "ufw/" "wpa_supplicant/" "NetworkManager/" "gufw/" "skel/" "lvm/" "gtk-2.0/" "zsh/" "libnl/" "mkinitcpio.conf" "login.defs" "iproute2/" "resolvconf.conf" "nscd.conf" "os-release" "ssl/" "gtk-3.0/" "cups/" "php/" "fuse.conf" "mailcap" "bluetooth/" "rc.local" "sensors3.conf" "ImageMagick-6/" "shadow" "protocols" "pacman.d/" "nanorc" "ld.so.conf" "rc_keymaps/" "iptables/" "ppp/" "papersize" "rsyncd.conf" "openldap/" "shadow-" "group" "exports.d/" "geoclue/" "manjaro-release" "nfsmount.conf" "sudoers.d/" "makepkg.conf" "netconfig" "localtime" "mke2fs.conf" "gss/" "cpufreq-bench.conf" "printcap" "binfmt.d/" "ImageMagick-7/" "ethertypes" "wgetrc" "ld.so.conf.d/" "openswap.conf" "motd" "i3status.conf" "machine-id" "hostname" "./" "ca-certificates/" "gssproxy/" "krb5.conf" "udisks2/" "ssh/" "conf.d/" "sensors.d/" "acpi/" "lsb-release" "nsswitch.conf" "hosts" "services" "anacrontab" "kernel/" "cron.deny" "sudoers" "gshadow" "modules-load.d/" "cron.d/" "updatedb.conf" "ifplugd/" "mail.rc" "gai.conf" "logrotate.d/" "xinetd.d/" "depmod.d/" "openvpn/" "asound.conf" "healthd.conf" "sysctl.d/" "host.conf" "pulse/" "security/" "passwd.OLD" "pacman.conf" "slsh.rc" "netctl/" "foomatic/" "issue" "pamac.conf" "../" "pcmcia/" "mono/" "vimrc" "gshadow-" "pkcs11/" "dnsmasq.conf" "systemd/" "cupshelpers/" "drirc" "apparmor.d/" "libblockdev/" "UPower/" "resolv.conf" "hp/" "libpaper.d/" "avahi/" "idmapd.conf" "rc_maps.cfg" "dbus-1/" "ntp.conf" "polkit-1/" "cifs-utils/" "resolv.conf.bak" "grub.d/" "X11/" "shells" "profile.d/" "ts.conf" "fstab" "mtab" "bash.bashrc" "pacman-mirrors.conf" "cron.daily/" "tmpfiles.d/" "cron.weekly/" "modprobe.d/" "locale.conf" "gconf/" "environment" "group-" "request-key.conf" "timezone" "crypttab" "xdg/" "gimp/")
+
+ ("/home/mathad/Desktop/" (23135 18826 976138 185000) "./" "../")
+
+ ("/home/mathad/.config/autostart/" (23135 18914 666136 41000) "./" "../")
+
+ ("/home/mathad/Downloads/dotfiles/.i3/" (23211 52521 527093 808000) "lemonbar/" "conkyrc" "i3_focus_or_run.sh" "i3status.conf" "config" "./" "../")
+
+ ("/home/mathad/Downloads/dotfiles/" (23211 52521 537093 861000) ".exclude" ".shell_prompt.sh" "bin/" ".turses/" ".ncmpcpp/" ".logo" ".vim/" ".fonts/" ".tmux.conf" ".gtkrc-2.0" ".xsession" ".gitconfig" ".muttrc" "README.md" ".bashrc" ".gitignore" ".gitignore_global" "./" ".mp3moverrc" ".signature" ".inputrc" ".dircolors" ".config/" ".tmux/" "../" ".Xresources" ".fonts.conf" ".vimrc" ".i3/" ".weechat/" ".git/" ".urxvt/" ".conkyrc" ".conkyrc_remote")
+
+ ("/run/media/mathad/7AC8-E3BA/home/mathad/Downloads/" (23135 17034 0 0) "billet-bengalore.pdf" "photo_id.jpg" "zenvpn.ovpn" "document.pdf" "emacs.pdf" "mathieu_hadjimegrian.pdf" "emacs.epub" "grub.cfg" "refcard.pdf" "../" "./")
+
+ ("/home/mathad/Documents/pole emploi/" (23135 17230 0 0) "bulletin_11-17.pdf" "bulletin_08-17.pdf" "bulletin_04-17.pdf" "bulletin_03-17.pdf" "bulletin_07-17.pdf" "login.pdf" "bulletin_02-17.pdf" "bulletin_08-16.pdf" "fin_de_contrat.pdf" "bulletin_12-16.pdf" "bulletin_10-16.pdf" "RIB.pdf" "bulletin_01-17.pdf" "bulletin_11-16.pdf" "bulletin_05-17.pdf" "bulletin_10-17.pdf" "./" "attestation_celad.pdf" "../" "bulletin_09-17.pdf" "bulletin_06-17.pdf" "fin_de_contrat_celad.pdf")
+
+ ("/run/media/mathad/7AC8-E3BA/home/mathad/Documents/" (23135 17230 0 0) "voyage/" "pole emploi/" "my-dev/" "linux/" "intel_failles/" "Nexus6/" ".~lock.morgane.odt#" "../" "./")
+
+ ("/run/media/mathad/7AC8-E3BA/home/mathad/" (23135 17846 0 0) ".pulse/" ".gnome/" ".thumbnails/" ".hplip/" ".ssh/" ".macromedia/" ".pki/" ".gnupg/" ".winff/" "Ebooks/" ".adobe/" ".fonts/" ".gitconfig~" ".cask/" ".Xdefaults" ".themes/" "my-config/" ".gitconfig" ".pulse-cookie" "#.extend.Xresources#" ".Xresources" ".bash_history" ".extend.Xresources" ".esd_auth" ".dmrc" ".fehbg" ".emacs.d/" ".mozilla/" ".urxvt/" ".cache/" ".Xauthority" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Templates/" "Downloads/" "Desktop/" ".extend.xinitrc" ".Xclients" ".gimp-2.8/" ".moc/" ".xsession" ".i3/" ".bashrc" ".bash_profile" ".xprofile" ".xsession-errors.old" ".xsession-errors" ".config/" ".xinitrc" ".profile" ".local/" ".moonchild productions/" ".extend.bashrc" ".gtkrc-2.0" ".icons/" ".dialogrc" ".dir_colors" ".bash_logout" "../" "./")
+
+ ("/run/media/mathad/7AC8-E3BA/home/" (23135 17030 0 0) "mathad/" "../" "./")
+
+ ("/home/mathad/my-config/environment/" (23181 1408 437816 945000) "theme/" "config/" "./" "../")
+
+ ("/home/mathad/my-config/emacs/modules/pdf-tools/" (23181 17907 921100 864000) "Cask" "pdf-tools-readme.txt" "server/" ".ert-runner" "Makefile" ".gitignore" ".cask/" "COPYING" ".travis.yml" "NEWS" "lisp/" "test/" "./" "TODO" "README" "README.org" "../" "pdf-tools-0.90.tar" "COPYING.SYNCTEX" ".git")
+
+ ("/home/mathad/my-config/emacs/modules/pdf-tools/lisp/" (23181 17873 894413 12000) "pdf-isearch.el" "pdf-occur.el" "pdf-cache.el" "pdf-links.el" "pdf-annot.el" "pdf-misc.el" "pdf-sync.el" ".gitignore" "pdf-virtual.el" "pdf-view.el" "pdf-tools.el" "./" "pdf-dev.el" "pdf-history.el" "../" "pdf-outline.el" "pdf-info.el" "pdf-util.el")
+
+ ("/home/mathad/my-config/emacs/modules/pdf-tools/pdf-tools-0.90/" (23181 10926 0 0) "epdfinfo" "pdf-isearch.el" "pdf-occur.el" "pdf-cache.el" "pdf-links.el" "pdf-annot.el" "pdf-misc.el" "pdf-sync.el" "pdf-virtual.el" "pdf-view.el" "pdf-tools-pkg.el" "pdf-tools.el" "./" "pdf-dev.el" "pdf-history.el" "README" "../" "pdf-outline.el" "pdf-info.el" "pdf-util.el")
+
+ ("/home/mathad/my-config/emacs/modules/tablist/" (23181 10396 381738 423000) "Cask" "README.md" "Makefile" ".gitignore" "COPYING" "./" "tablist-filter.el" "../" "tablist.el" ".dir-locals.el" ".git")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
