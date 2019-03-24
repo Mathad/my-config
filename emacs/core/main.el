@@ -68,10 +68,10 @@ browse-url-firefox-new-window-is-tab t)
  ;; If there is more than one, they won't work right.
 )
 
-;; ;; Loading my  modules
+;; Loading my  modules
 (require 'modules)
 
-;; ;; Loading my keybindings
+;; Loading my keybindings
 (require 'keybindings)
 
 (provide 'main)
