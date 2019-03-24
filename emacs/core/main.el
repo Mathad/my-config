@@ -18,16 +18,11 @@
 ;; Use 'a' binding in dired mode 
 (put 'dired-find-alternate-file 'disabled nil)
 
-;; Loading my Emacs environment
-(add-to-list 'load-path "~/my-config/emacs/config/")
-;; Path to the core files
-(add-to-list 'load-path "~/my-config/emacs/core/ergonomics/")
-(add-to-list 'load-path "~/my-config/emacs/core/libs/")
-(add-to-list 'load-path "~/my-config/emacs/core/tools/")
-(add-to-list 'load-path "~/my-config/emacs/core/ui/")
+;; ;; Loading my Emacs environment
+(add-to-list 'load-path "~/my-config/emacs/modules/")
 
 ;; Loading my theme : spacegray
-(load-file "~/my-config/emacs/core/theme/spacegray.el")
+(load-file "~/my-config/emacs/core/themes/spacegray.el")
 
 ;; Set default web browser
 (setq browse-url-browser-function 'browse-url-firefox
@@ -73,10 +68,10 @@ browse-url-firefox-new-window-is-tab t)
  ;; If there is more than one, they won't work right.
 )
 
-;; Loading my  modules
-(require 'my-modules)
+;; ;; Loading my  modules
+(require 'modules)
 
-;; Loading my keybindings
-(require 'my-keybindings)
+;; ;; Loading my keybindings
+(require 'keybindings)
 
 (provide 'main)
