@@ -1,9 +1,0 @@
-[submodule "emacs/modules/ergonomics/emacs-neotree"]
-	path = emacs/modules/ergonomics/emacs-neotree
-	url = https://github.com/jaypei/emacs-neotree.git
-[submodule "emacs/modules/libs/emacs-memoize"]
-	path = emacs/modules/libs/emacs-memoize
-	url = https://github.com/skeeto/emacs-memoize.git
-[submodule "emacs/modules/ui/all-the-icons"]
-	path = emacs/modules/ui/all-the-icons
-	url = https://github.com/domtronn/all-the-icons.el.git
