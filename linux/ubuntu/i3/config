@@ -18,7 +18,7 @@ set $mod Mod4
 exec --no-startup-id nitrogen --restore
 
 # exit script
-set $i3exit ~/my-config/ubuntu/i3/i3exit
+set $i3exit ~/my-config/linux/ubuntu/i3/i3exit
 
 # define workspaces
 set $workspace1 "1"
@@ -166,7 +166,7 @@ client.urgent           $warning    $warning   $foreground $warning
 # finds out, if available)
 bar {
     position top
-    status_command i3blocks -c ~/my-config/ubuntu/i3/i3blocks.conf
+    status_command i3blocks -c ~/my-config/linux/ubuntu/i3/i3blocks.conf
     colors {
         background #2f343f
         statusline #ffffff
