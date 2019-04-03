@@ -17,5 +17,7 @@ You will find in this repository my global configuration for my Linux environmen
 ```
 
 ## [Cask](https://cask.readthedocs.io/en/latest/index.html) must be installed :
-    curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python
-    export PATH="$HOME/.cask/bin:$PATH"
+```bash
+	curl -fsSL https://raw.githubusercontent.com/cask/cask/master/go | python
+	export PATH="$HOME/.cask/bin:$PATH"
+```
