@@ -29,7 +29,7 @@ Description of all the modules I use with my Emacs configuration.
 
 ## Tools modules
 
-[Cscope](https://github.com/dkogan/xcscope.el) - This is an emacs interface to the [‘cscope’]((http://cscope.sf.net)) source cross-referencing tool.
+[Cscope](https://github.com/dkogan/xcscope.el) - This is an emacs interface to the [‘cscope’](http://cscope.sf.net) source cross-referencing tool.
 
 [Deadgrep](https://github.com/Wilfred/deadgrep) - Deadgrep is the fast, beautiful text search that your Emacs deserves.
 

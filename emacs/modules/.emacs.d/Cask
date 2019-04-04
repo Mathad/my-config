@@ -20,5 +20,5 @@
 (depends-on "wgrep")
 (depends-on "which-key")
 (depends-on "zoom")
-
+(depends-on "xcscope")
 
