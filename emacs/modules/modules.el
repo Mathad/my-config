@@ -34,8 +34,9 @@
 
 (require 'spinner)
 
-(require 'symon)
-(symon-mode)
+(use-package symon
+  :custom (symon-sparkline-type 'boxed)
+  :config (symon-mode))
 
 (require 'telephone-line)
 (setq telephone-line-primary-left-separator 'telephone-line-cubed-left

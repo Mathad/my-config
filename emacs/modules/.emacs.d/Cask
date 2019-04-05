@@ -17,6 +17,7 @@
 (depends-on "system-packages")
 (depends-on "telephone-line")
 (depends-on "try")
+(depends-on "use-package")
 (depends-on "wgrep")
 (depends-on "which-key")
 (depends-on "zoom")
