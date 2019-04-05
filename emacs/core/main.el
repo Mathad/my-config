@@ -8,9 +8,6 @@
 ;; You may delete these explanatory comments.
 (package-initialize)
 
-;; Enable Ido mode
-(ido-mode)
-
 ;; Add GNU and MELPA packages
 (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
 			 ("melpa" . "http://melpa.org/packages/")))

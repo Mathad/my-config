@@ -17,6 +17,9 @@
 
 (eyebrowse-mode t)
 
+(require 'ido)
+(ido-mode t)
+
 (require 'popwin)
 (popwin-mode 1)
 
