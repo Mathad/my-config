@@ -42,3 +42,7 @@ Description of all the modules I use with my Emacs configuration.
 [System packages](https://github.com/jabranham/system-packages) - A collection of functions to make handling installed system packages more convenient through emacs.
 
 [Wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Allows you to edit a grep buffer and apply those changes to the file buffer.
+
+## Programming modules
+
+[Markdown & Pandoc](https://jblevins.org/projects/markdown-mode/) - A major mode for editing Markdown-formatted text.
