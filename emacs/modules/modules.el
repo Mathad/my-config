@@ -58,6 +58,9 @@
 
 (require 'deadgrep)
 
+(use-package goto-line-preview
+  :bind ("C-c l" . 'goto-line-preview))
+
 (require 'magit)
 
 (pdf-loader-install)

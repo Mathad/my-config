@@ -9,6 +9,7 @@
 (depends-on "deadgrep")
 (depends-on "eyebrowse")
 (depends-on "google-this")
+(depends-on "goto-line-preview")
 (depends-on "magit")
 (depends-on "markdown-mode")
 (depends-on "pandoc")
