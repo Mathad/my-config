@@ -10,6 +10,8 @@
 (depends-on "eyebrowse")
 (depends-on "google-this")
 (depends-on "magit")
+(depends-on "markdown-mode")
+(depends-on "pandoc")
 (depends-on "pdf-tools")
 (depends-on "popwin")
 (depends-on "spinner")
