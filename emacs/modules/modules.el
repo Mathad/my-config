@@ -16,6 +16,9 @@
 (require 'buffer-move)
 
 (eyebrowse-mode t)
+(use-package eyebrowse
+  :custom (eyebrowse-mode t)
+	  (eyebrowse-switch-back-and-forth t))
 
 (require 'ido)
 (ido-mode t)
