@@ -6,11 +6,12 @@
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
-(package-initialize)
-
+(require 'package)
+(setq package-enable-at-startup nil)
 ;; Add GNU and MELPA packages
 (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
 			 ("melpa" . "http://melpa.org/packages/")))
+(package-initialize)
 
 ;; Use 'a' binding in dired mode 
 (put 'dired-find-alternate-file 'disabled nil)
