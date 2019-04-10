@@ -58,8 +58,8 @@ bindsym $mod+Shift+0 move container to workspace $workspace10
 
 # virtual desktops position
 workspace $workspace1 output VGA-1
-workspace $workspace2 output VGA-2
-workspace $workspace3 output VGA-1
+workspace $workspace2 output VGA-1
+workspace $workspace3 output VGA-2
 workspace $workspace4 output VGA-2
 
 # general Configuration
