@@ -56,6 +56,12 @@ bindsym $mod+Shift+8 move container to workspace $workspace8
 bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace10
 
+# virtual desktops position
+workspace $workspace1 output VGA-1
+workspace $workspace2 output VGA-2
+workspace $workspace3 output VGA-1
+workspace $workspace4 output VGA-2
+
 # general Configuration
 font pango:System San Francisco Display 11
 floating_modifier $mod
