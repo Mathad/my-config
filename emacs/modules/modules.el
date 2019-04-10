@@ -20,6 +20,11 @@
   :custom (eyebrowse-mode t)
 	  (eyebrowse-switch-back-and-forth t))
 
+(load-file "~/.emacs.d/helm-ido-like.el")
+(require 'helm-ido-like)
+(global-set-key [remap execute-extended-command] #'helm-smex)
+(global-set-key (kbd "M-X") #'helm-smex-major-mode-commands)
+
 (require 'ido)
 (ido-mode t)
 
