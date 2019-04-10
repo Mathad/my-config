@@ -25,23 +25,24 @@
 (global-set-key [remap execute-extended-command] #'helm-smex)
 (global-set-key (kbd "M-X") #'helm-smex-major-mode-commands)
 
-(require 'ido)
-(ido-mode t)
+(use-package ido
+  :custom (ido-mode t))
 
-(require 'popwin)
-(popwin-mode 1)
+(use-package popwin
+  :custom (popwin-mode t))
 
-(require 'which-key)
-(which-key-mode)
+(use-package which-key
+  :custom (which-key-mode t))
 
-(custom-set-variables '(zoom-mode t))
+(use-package zoom
+  :custom (zoom-mode t))
 
 ;;;;;;;;;;;;;;;;
 ;;     UI     ;;
 ;;;;;;;;;;;;;;;;
 
-(require 'all-the-icons)
-(add-hook 'dired-mode-hook 'all-the-icons-dired-mode)
+;; (require 'all-the-icons)
+;; (add-hook 'dired-mode-hook 'all-the-icons-dired-mode)
 
 (require 'spinner)
 
