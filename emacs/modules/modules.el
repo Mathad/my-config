@@ -13,9 +13,8 @@
 (require 'auto-complete-config)
 (ac-config-default)
 
-(require 'buffer-move)
+(use-package buffer-move)
 
-(eyebrowse-mode t)
 (use-package eyebrowse
   :custom (eyebrowse-mode t)
 	  (eyebrowse-switch-back-and-forth t))
