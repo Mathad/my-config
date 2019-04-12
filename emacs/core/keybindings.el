@@ -61,10 +61,10 @@
 (global-set-key (kbd "C-x g") 'google-this-mode-submap)
 
 ;; Magit - An interface to the version control system Git.
-(global-set-key (kbd "<f1>") 'magit-status)
-(global-set-key (kbd "<f2>") 'magit-fetch)
-(global-set-key (kbd "<f3>") 'magit-push)
-(global-set-key (kbd "<f4>") 'magit-commit)
+(global-set-key (kbd "<f1>") 'magit-log-all)
+(global-set-key (kbd "<f2>") 'magit-status)
+(global-set-key (kbd "<f3>") 'magit-fetch)
+(global-set-key (kbd "<f4>") 'magit-push)
 
 ;; Wgrep - Allows you to edit a grep buffer and apply those changes to the file buffer.
 (global-set-key (kbd "C-c r") 'wgrep-enable-key)
