@@ -10,6 +10,8 @@ Description of all the modules I use with my Emacs configuration.
 
 [Eye browse](https://github.com/wasamasa/eyebrowse) - a global minor mode for Emacs that allows you to manage your window configurations in a simple manner, just like tiling window managers.
 
+[Helm](https://emacs-helm.github.io/helm/) - An Emacs framework for incremental completions and narrowing selections.
+
 [Popwin](https://github.com/m2ym/popwin-el) - A popup window manager for Emacs which makes you free from the hell of annoying buffers.
 
 [Which key](https://github.com/justbur/emacs-which-key) - A minor mode for Emacs that displays the key bindings following your currently entered incomplete command.
@@ -38,8 +40,6 @@ Description of all the modules I use with my Emacs configuration.
 [Magit](https://magit.vc/) - An interface to the version control system Git.
 
 [PDF tools](https://github.com/politza/pdf-tools) - A replacement of DocView for PDF files.
-
-[System packages](https://github.com/jabranham/system-packages) - A collection of functions to make handling installed system packages more convenient through emacs.
 
 [Wgrep](https://github.com/mhayashi1120/Emacs-wgrep) - Allows you to edit a grep buffer and apply those changes to the file buffer.
 
