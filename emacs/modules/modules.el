@@ -62,6 +62,7 @@
 ;;     TOOLS -- MODULES     ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+(require 'xcscope)
 (cscope-setup)
 
 (require 'deadgrep)
