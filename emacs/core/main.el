@@ -26,6 +26,16 @@
  ;; If there is more than one, they won't work right.
  )
 
+;; Loading my Emacs environment
+(add-to-list 'load-path "~/my-config/emacs/modules/")
+;; Loading my theme : spacegray
+(load-file "~/my-config/emacs/core/themes/spacegray.el")
+
+;; set Firefox as default browser
+(setq browse-url-browser-function 'browse-url-firefox
+      browse-url-new-window-flag  t
+browse-url-firefox-new-window-is-tab t)
+
 ;; keep `sudo` passwd 1 hour
 (require 'em-tramp)
 (setq password-cache t)
@@ -33,16 +43,6 @@
 
 ;; Use 'a' binding in dired mode 
 (put 'dired-find-alternate-file 'disabled nil)
-;; ;; Loading my Emacs environment
-(add-to-list 'load-path "~/my-config/emacs/modules/")
-;; Loading my theme : spacegray
-(load-file "~/my-config/emacs/core/themes/spacegray.el")
-;; Set default web browser
-(setq browse-url-browser-function 'browse-url-firefox
-      browse-url-new-window-flag  t
-browse-url-firefox-new-window-is-tab t)
-;; Allow to save password
-(setq password-cache-expiry nil)
 ;; Hide welcome screen
 (setq inhibit-startup-message t)
 ;; Show parenthese
