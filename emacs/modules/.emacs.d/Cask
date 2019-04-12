@@ -7,6 +7,7 @@
 (depends-on "buffer-move")
 (depends-on "cask")
 (depends-on "deadgrep")
+(depends-on "elpy")
 (depends-on "eyebrowse")
 (depends-on "helm")
 (depends-on "helm-flx")

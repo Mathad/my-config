@@ -83,6 +83,9 @@
 ;;     PROGRAMMING -- MODULES     ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+(use-package elpy
+  :config (elpy-enable))
+
 (use-package markdown-mode
   :commands (markdown-mode gfm-mode)
   :mode (("README\\.md\\'" . gfm-mode)
