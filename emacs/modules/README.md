@@ -45,4 +45,6 @@ Description of all the modules I use with my Emacs configuration.
 
 ## Programming modules
 
+[Elpy](https://elpy.readthedocs.io/en/latest/introduction.html) - An extension for the Emacs text editor to work with Python projects.
+
 [Markdown & Pandoc](https://jblevins.org/projects/markdown-mode/) - A major mode for editing Markdown-formatted text.
