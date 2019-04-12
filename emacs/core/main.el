@@ -26,12 +26,10 @@
  ;; If there is more than one, they won't work right.
  )
 
-(require 'package)
-(setq package-enable-at-startup nil)
-;; Add GNU and MELPA packages
-(setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
-			 ("melpa" . "http://melpa.org/packages/")))
-(package-initialize)
+;; keep `sudo` passwd 1 hour
+(require 'em-tramp)
+(setq password-cache t)
+(setq password-cache-expiry 3600)
 
 ;; Use 'a' binding in dired mode 
 (put 'dired-find-alternate-file 'disabled nil)
