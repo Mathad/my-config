@@ -19,6 +19,7 @@
 (depends-on "goto-line-preview")
 (depends-on "magit")
 (depends-on "markdown-mode")
+(depends-on "multi-term")
 (depends-on "pandoc")
 (depends-on "pdf-tools")
 (depends-on "popwin")

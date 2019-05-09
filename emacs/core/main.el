@@ -44,8 +44,8 @@ browse-url-firefox-new-window-is-tab t)
 (show-paren-mode 1)
 ;; remove scroll bar
 (scroll-bar-mode -1)
-;; set default shell
-(setq explicit-shell-file-name "/bin/bash")
+;; set multi-term shell
+(setq multi-term-program "/bin/bash")
 ;; change default grep command
 (setq grep-command "grep --color -nsrH -e ")
 
