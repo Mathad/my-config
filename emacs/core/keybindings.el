@@ -30,13 +30,6 @@
 (global-set-key (kbd "<C-S-left>")   'buf-move-left)
 (global-set-key (kbd "<C-S-right>")  'buf-move-right)
 
-;; Eyebrowse - a global minor mode for Emacs that allows you to manage your window configurations in a simple manner, just like tiling window managers
-(global-set-key (kbd "M-1") (lambda () (interactive) (eyebrowse-switch-to-window-config-1)))
-(global-set-key (kbd "M-2") (lambda () (interactive) (eyebrowse-switch-to-window-config-2)))
-(global-set-key (kbd "M-3") (lambda () (interactive) (eyebrowse-switch-to-window-config-3)))
-(global-set-key (kbd "M-4") (lambda () (interactive) (eyebrowse-switch-to-window-config-4)))
-(global-set-key (kbd "M-5") (lambda () (interactive) (eyebrowse-switch-to-window-config-5)))
-
 ;; Neotree - A Emacs tree plugin like NerdTree for Vim.
 (global-set-key [f4] 'neotree-toggle)
 
