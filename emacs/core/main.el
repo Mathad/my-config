@@ -26,6 +26,9 @@
 ;; loading my theme : spacegray
 (load-file "~/my-config/emacs/core/themes/spacegray.el")
 
+;; Saving previous desktop configuration
+(desktop-save-mode 1)
+
 ;; set Firefox as default browser
 (setq browse-url-browser-function 'browse-url-firefox
       browse-url-new-window-flag  t
