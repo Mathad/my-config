@@ -30,6 +30,7 @@
 (setq browse-url-browser-function 'browse-url-firefox
       browse-url-new-window-flag  t
 browse-url-firefox-new-window-is-tab t)
+      browse-url-firefox-new-window-is-tab t)
 
 ;; keep `sudo` passwd 1 hour
 (require 'em-tramp)
