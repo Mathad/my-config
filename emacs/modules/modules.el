@@ -52,8 +52,8 @@
 ;;     UI     ;;
 ;;;;;;;;;;;;;;;;
 
-;; (require 'all-the-icons)
-;; (add-hook 'dired-mode-hook 'all-the-icons-dired-mode)
+(require 'all-the-icons)
+(add-hook 'dired-mode-hook 'all-the-icons-dired-mode)
 
 (require 'spinner)
 

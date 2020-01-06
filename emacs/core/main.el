@@ -38,6 +38,8 @@
 
 ;; use 'a' binding in dired mode 
 (put 'dired-find-alternate-file 'disabled nil)
+;; set helm key left and right navigation
+(customize-set-variable 'helm-ff-lynx-style-map t)
 ;; hide welcome screen
 (setq inhibit-startup-message t)
 ;; show parenthese
